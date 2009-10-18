@@ -1,2 +1,4 @@
-pygments: true
+markdown: rdiscount
 permalink: /post/:title
+pygments: true
+paginate: 3

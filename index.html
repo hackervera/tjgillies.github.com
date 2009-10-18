@@ -1,12 +1,8 @@
 ---
 layout: default
-title: samsoff.es - Pure Awesomeness
+title: Pure Awesomeness
 ---
-
-<p>Homepage content here</p>
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+{% for page in site.posts limit:5 %}
+{% assign body = page.content %}
+{% include post.html %}
+{% endfor %}

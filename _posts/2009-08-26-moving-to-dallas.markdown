@@ -1,5 +1,6 @@
 ---
-title: samsoff.es - Moving to Dallas
+title: Moving to Dallas
+layout: post
 ---
 
 I'm moving to Dallas. For real. I know I've said I'm moving here and there over the past few months, but I already have a place to live and such in Dallas so it's official this time.
