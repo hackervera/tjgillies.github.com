@@ -1,5 +1,5 @@
 ---
-title: Video: Why I Love Remember the Milk
+title: "Video: Why I Love Remember the Milk"
 layout: post
 ---
 

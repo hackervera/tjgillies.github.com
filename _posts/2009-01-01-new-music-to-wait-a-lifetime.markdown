@@ -1,5 +1,5 @@
 ---
-title: New Music: To Wait A Lifetime
+title: "New Music: To Wait A Lifetime"
 layout: post
 ---
 
