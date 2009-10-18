@@ -1,6 +1,8 @@
 # samsoff.es
 
-This is my new blog running on [Jekyll](http://github.com/mojombo/jekyll) (blog-aware, static site generator) and [Markdown](http://daringfireball.net/projects/markdown). It's pretty awesome.
+This is my blog. You can read it at <http://samsoff.es>.
+
+It's running on [Jekyll](http://github.com/mojombo/jekyll) (blog-aware, static site generator) and [Markdown](http://daringfireball.net/projects/markdown).
 
 I used a lot of ideas from [Tom Preston-Werner](http://github.com/mojombo/mojombo.github.com), [Tom Ward](http://github.com/tomafro/tomafro.net), and [Alex Payne](http://github.com/al3x/al3x.github.com).
 
