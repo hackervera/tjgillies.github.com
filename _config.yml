@@ -1,2 +1,4 @@
 permalink: /post/:title
 pygments: true
+exclude:
+  - config.rb
