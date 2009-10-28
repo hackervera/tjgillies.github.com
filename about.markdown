@@ -11,7 +11,7 @@ My name is Sam Soffes. I create amazing iPhone, Mac, and web software (or anythi
 I founded [Trimonix](http://trimonix.com) a few years ago and released a [Mac app](http://trimonix.com/countdown-maker) (and a [fun little iPhone app](http://trimonix.com/mistletoed)). I  used to write [iPhone apps](http://youversion.com/iphone) and [large scale web applications](http://youversion.com) at [LifeChurch.tv](http://lifechurch.tv).
 
 ## Contact Me
-The best way to get in touch with me is email, but here are some alternatives. If you want me to turn your dreams into software, email [hireus@tastefulworks.com](&#109;&#97;&#105;&#108;&#116;&#111;&#58;%68%69%72%65%75%73@%74%61%73%74%65%66%75%6c%77%6f%72%6b%73.%63%6f%6d) and we'll get you taken care of.
+The best way to get in touch with me is email, but here are some alternatives. If you want me to turn your dreams into software, [contact Tasteful Works](http://tastefulworks.com/contact) and we'll get you taken care of.
 
 <ul class="contact clear">
   <li><span>Read:</span> <a href="http://samsoff.es/">http://samsoff.es</a></li>
