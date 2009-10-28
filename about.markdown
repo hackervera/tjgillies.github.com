@@ -5,7 +5,7 @@ layout: default
 
 ## What I Do
 
-My name is Sam Soffes. I create amazing iPhone, Mac, and web software (or anything you could ever imagine) at [Tasteful Works][http://tastefulworks.com/].
+My name is Sam Soffes. I create amazing iPhone, Mac, and web software (or anything you could ever imagine) at [Tasteful Works](http://tastefulworks.com/).
 
 ## What I've Done
 I founded [Trimonix](http://trimonix.com) a few years ago and released a [Mac app](http://trimonix.com/countdown-maker) (and a [fun little iPhone app](http://trimonix.com/mistletoed)). I  used to write [iPhone apps](http://youversion.com/iphone) and [large scale web applications](http://youversion.com) at [LifeChurch.tv](http://lifechurch.tv).
