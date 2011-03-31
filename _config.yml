@@ -1,5 +1,0 @@
-permalink: /post/:title
-markdown: rdiscount
-pygments: true
-exclude:
-  - config.rb
